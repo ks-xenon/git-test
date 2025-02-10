@@ -1,0 +1,11 @@
+# no .db files
+*.db
+
+# no .log files
+*.log*
+
+# no target repository
+target/
+
+# no bin repository
+bin/
